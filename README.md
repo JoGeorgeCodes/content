@@ -462,13 +462,13 @@ push your branch to your fork:
 **Important: `yarn content move` automatically adds the necessary redirect
 information to the `_redirects.txt` file so that the old location will redirect
 to the new one. Don't edit the `_redirects.txt` file manually!
-mistakes can easily creep in if you do. If you need to add a redirect without
+Mistakes can easily creep in if you do. If you need to add a redirect without
 moving a file, talk to us about it.**
 
 ### Deleting a document
 
 Deleting one or more documents, or an entire tree of documents is also easy,
-again because we've created a special command that takes care of the
+because we've again created a special command that takes care of the
 details for you:
 
 ```sh
